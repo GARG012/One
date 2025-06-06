@@ -10,3 +10,4 @@ git commit -m " "
 make a new repositories
 then create 
 paste 3 line by the command 
+push your code 
